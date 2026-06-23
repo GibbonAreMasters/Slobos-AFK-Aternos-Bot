@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": PentinSMP.aternos.me:27463
-   ,
+    "ip": "PentinSMP.aternos.me",
     "port": 27463,
     "version": "1.21.11",
     "try-creative": false
